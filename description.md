@@ -4,8 +4,18 @@
 
 symbol | definition
 ------------ | -------------
-NN | Noun
-VB | Verb
+NN  | Noun
+VB  | Verb
+ADJ | Adjective
+ADV | Adverb
+AUX | Auxiliary verb
+CONJ | Conjunction
+NADJ | Nominal adjective
+NADV | Nominal adverb
+NNF  | Formal noun
+NNFV | Formal noun (adverbial)
+NUM  | Numeral
+NV   | Verbal noun
 
 
 * Phrase tags (non-terminal symbols)
