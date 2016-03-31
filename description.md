@@ -7,6 +7,7 @@ symbol | definition
 NN  | Noun
 VB  | Verb
 ADJ | Adjective
+ADNOM | Adnimonal adjective
 ADV | Adverb
 AUX | Auxiliary verb
 CONJ | Conjunction
@@ -16,9 +17,17 @@ NNF  | Formal noun
 NNFV | Formal noun (adverbial)
 NUM  | Numeral
 NV   | Verbal noun
------------- | -------------
 PCS | Case particle
 PADN | Adnominal particle
+PBD  | Binding particle
+PCO  | Parallel particle
+PCJ  | Conjunctive particle
+PEND | Sentence-ending particle
+P  | Particle (others)
+PNC | Punctuation
+PAR | Parenthesis
+SYM | Symbol
+FIL | Filler
 
 ## Phrase tags (non-terminal symbols)
 
