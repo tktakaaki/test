@@ -34,9 +34,13 @@ FIL | Filler
 symbol | definition
 ------------ | -------------
 NP | Noun phrase
+PP | Postposition phrase
 VB | Verb phrase
-
-
+ADJP | Adjective phrase
+ADVP | Adverbial phrase
+CONJP | Conjunction phrase
+IP  | Inflectional phrase
+CP  | Complementizer phrase
 
 
 
@@ -47,5 +51,9 @@ symbol | definition
 -SBJ | Subjective case
 -OBJ | Objective case
 -OB2 | Dative case
-
+-TMP | Temporal case
+-LOC | Locative case
+-COORD | Coordination
+-APPOS | Apposition
+-QUE  | Question
 
