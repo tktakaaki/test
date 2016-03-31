@@ -16,7 +16,9 @@ NNF  | Formal noun
 NNFV | Formal noun (adverbial)
 NUM  | Numeral
 NV   | Verbal noun
-
+------------ | -------------
+PCS | Case particle
+PADN | Adnominal particle
 
 ## Phrase tags (non-terminal symbols)
 
@@ -24,6 +26,8 @@ symbol | definition
 ------------ | -------------
 NP | Noun phrase
 VB | Verb phrase
+
+
 
 
 
