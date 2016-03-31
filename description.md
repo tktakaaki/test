@@ -1,6 +1,6 @@
 # A brief introduction to the Kaede treebank
 
-* Part-of-speech tags (terminal symbols)
+## Part-of-speech tags (terminal symbols)
 
 symbol | definition
 ------------ | -------------
@@ -18,7 +18,7 @@ NUM  | Numeral
 NV   | Verbal noun
 
 
-* Phrase tags (non-terminal symbols)
+## Phrase tags (non-terminal symbols)
 
 symbol | definition
 ------------ | -------------
@@ -27,7 +27,7 @@ VB | Verb phrase
 
 
 
-* Function tags 
+## Function tags 
 
 symbol | definition
 ------------ | -------------
