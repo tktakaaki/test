@@ -1,5 +1,10 @@
 # A brief introduction to the Kaede treebank
 
+
+Kaede treebank is a Japanese treebank annotated with
+phrase structure and grammatical functions.
+
+
 ## Part-of-speech tags (terminal symbols)
 
 symbol | definition
