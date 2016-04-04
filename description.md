@@ -106,6 +106,7 @@ symbol | definition
 -QUE  | Question
 -ADV | Adverbial modification
 -ADNOM | Adnominal modification
+-MSR | Measure expression
 -FRAG | Fragmentation 
 
 
