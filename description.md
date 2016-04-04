@@ -1,4 +1,4 @@
-# A brief introduction to the Kaede treebank
+# A brief introduction to the Kaede treebank (楓)
 
 
 Kaede treebank is a Japanese treebank annotated with
@@ -22,6 +22,8 @@ NNF  | Formal noun
 NNFV | Formal noun (adverbial)
 NUM  | Numeral
 NV   | Verbal noun
+PX | Prefix
+SX | Suffix
 PCS | Case particle
 PADN | Adnominal particle
 PBD  | Binding particle
@@ -32,6 +34,7 @@ P  | Particle (others)
 PNC | Punctuation
 PAR | Parenthesis
 SYM | Symbol
+INTJ | Interjection
 FIL | Filler
 
 ## Phrase tags (non-terminal symbols)
