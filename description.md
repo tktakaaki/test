@@ -72,7 +72,13 @@ CONJP | Conjunction phrase
 INTJP | Interjection phrase
 FILP | Filler phrase
 IP  | Inflectional phrase
+IP-MAT  | Matrix phrase
+IP-REL  | Relative clause
+IP-ADN  | Adnominal clause (non-gapping)
 CP  | Complementizer phrase
+CP-THT  | Complementizer phrase
+CP-NNF | 
+CP-QUE | 
 
 
 
@@ -86,6 +92,10 @@ symbol | definition
 -TMP | Temporal case
 -LOC | Locative case
 -COORD | Coordination
+-ZPRED-COORD |
 -APPOS | Apposition
 -QUE  | Question
+-ADV | Adverbial modification
+-ADNOM | Adnominal modification
+-FRAG | Fragmentation 
 
