@@ -61,8 +61,8 @@ symbol | definition
 ------------ | -------------
 NP | Noun phrase
 VP | Verb phrase
-VCP | Verb phrase (nominal predicate, w/ copula)
-VNP | Verb phrase (nominal predicate, w/o copula)
+VCP | Nominal predicate phrase (w/ copula)
+VNP | Nominal predicate phrase (w/o copula)
 VQP | Verb phrae (question)
 ADJP | Adjective phrase
 NADJP | Nominal adjective phrase
@@ -73,12 +73,16 @@ INTJP | Interjection phrase
 FILP | Filler phrase
 IP  | Inflectional phrase
 IP-MAT  | Matrix phrase
+IP-ADV  | Adverbial phrase
 IP-REL  | Relative clause
+IP-REL_sbj  | Relative clause (subject gapping)
+IP-REL_obj  | Relative clause (object gapping)
+IP-REL_ob2  | Relative clause (indirect object gapping)
 IP-ADN  | Adnominal clause (non-gapping)
 CP  | Complementizer phrase
-CP-THT  | Complementizer phrase
-CP-NNF | 
-CP-QUE | 
+CP-THT  | Quotation clause
+CP-NNF | Nominalized clause
+CP-QUE | Interrogative clause
 
 
 
@@ -91,8 +95,8 @@ symbol | definition
 -OB2 | Dative case
 -TMP | Temporal case
 -LOC | Locative case
--COORD | Coordination
--ZPRED-COORD |
+-COORD | Coordinated structure
+-ZPRED-COORD | Coordinated structure with ellipsis of predicate
 -APPOS | Apposition
 -QUE  | Question
 -ADV | Adverbial modification
