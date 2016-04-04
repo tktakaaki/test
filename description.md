@@ -42,6 +42,18 @@ SYM | Symbol
 INTJ | Interjection
 FIL | Filler
 
+## Compound tags (non-terminal symbols)
+
+symbol | definition
+------------ | -------------
+AUXCOMP | Compound auxiliary verb
+CLCOMP  | Compound classifier
+NUMCOMP | Compound numeral
+PCONPADN | Compound particle (adnominal)
+PCONPADV | Compound particle (adverbiall)
+SYMCOMP | Compound symbol
+
+
 ## Phrase tags (non-terminal symbols)
 
 symbol | definition
