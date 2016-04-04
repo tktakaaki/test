@@ -49,6 +49,7 @@ symbol | definition
 AUXCOMP | Compound auxiliary verb
 CLCOMP  | Compound classifier
 NUMCOMP | Compound numeral
+PCOMP   | Compound particle
 PCOMPADN | Compound particle (adnominal)
 PCOMPADV | Compound particle (adverbiall)
 SYMCOMP | Compound symbol
@@ -59,11 +60,17 @@ SYMCOMP | Compound symbol
 symbol | definition
 ------------ | -------------
 NP | Noun phrase
-PP | Postposition phrase
-VB | Verb phrase
+VP | Verb phrase
+VCP | Verb phrase (nominal predicate, w/ copula)
+VNP | Verb phrase (nominal predicate, w/o copula)
+VQP | Verb phrae (question)
 ADJP | Adjective phrase
+NADJP | Nominal adjective phrase
 ADVP | Adverbial phrase
+PP | Postposition phrase
 CONJP | Conjunction phrase
+INTJP | Interjection phrase
+FILP | Filler phrase
 IP  | Inflectional phrase
 CP  | Complementizer phrase
 
