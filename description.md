@@ -10,6 +10,9 @@ phrase structure and grammatical functions.
 symbol | definition
 ------------ | -------------
 NN  | Noun
+NNP | Proper noun
+NPR | Pronoun
+NV | Verbal noun
 VB  | Verb
 ADJ | Adjective
 ADNOM | Adnimonal adjective
@@ -21,9 +24,11 @@ NADV | Nominal adverb
 NNF  | Formal noun
 NNFV | Formal noun (adverbial)
 NUM  | Numeral
+CL | Classifier
 NV   | Verbal noun
 PX | Prefix
 SX | Suffix
+SXNADJ | Suffix (nominal adjective)
 PCS | Case particle
 PADN | Adnominal particle
 PBD  | Binding particle
