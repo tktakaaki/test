@@ -1,8 +1,11 @@
 # A brief introduction to the Kaede treebank (楓)
 
-
-Kaede treebank is a Japanese treebank annotated with
-phrase structure and grammatical functions.
+Kaede treebank is a Japanese constituent treebank,
+which has clause level annotations with syntactic function labels,
+e.g., syntactic role and clause type, and coordinated construction.
+The treebank is designed to have complete binary trees, and
+is currently composed of about 20,000 sentences from 
+the Kyoto University Text Corpus (the Mainichi Shimbun Newspaper).
 
 
 ## Tags
