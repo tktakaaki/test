@@ -49,8 +49,8 @@ symbol | definition
 AUXCOMP | Compound auxiliary verb
 CLCOMP  | Compound classifier
 NUMCOMP | Compound numeral
-PCONPADN | Compound particle (adnominal)
-PCONPADV | Compound particle (adverbiall)
+PCOMPADN | Compound particle (adnominal)
+PCOMPADV | Compound particle (adverbiall)
 SYMCOMP | Compound symbol
 
 
