@@ -105,3 +105,12 @@ symbol | definition
 -ADNOM | Adnominal modification
 -FRAG | Fragmentation 
 
+
+## Publications
+
+- 田中貴秋, 永田昌明, 松崎拓也, 宮尾祐介, 植松すみれ: 統語情報と意味情報を統合した日本語句構造ツリーバンクの
+構築. 言語処理学会第20回年次大会予稿集, pp.737–740 (2014)
+- Takaaki Tanaka and Masaaki Nagata.  Constructing a practical constituent parser from a Japanese treebank
+with function labels. In Proceedings of 4th Workshop on Statistical Parsing of Morphologically-Rich Languages
+.
+
