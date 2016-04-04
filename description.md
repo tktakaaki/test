@@ -20,7 +20,7 @@ NPR | Pronoun
 NV | Verbal noun
 VB  | Verb
 ADJ | Adjective
-ADNOM | Adnimonal adjective
+ADNOM | Adnominal adjective
 ADV | Adverb
 AUX | Auxiliary verb
 CONJ | Conjunction
@@ -56,7 +56,7 @@ CLCOMP  | Compound classifier
 NUMCOMP | Compound numeral
 PCOMP   | Compound particle
 PCOMPADN | Compound particle (adnominal)
-PCOMPADV | Compound particle (adverbiall)
+PCOMPADV | Compound particle (adverbial)
 SYMCOMP | Compound symbol
 
 
@@ -68,7 +68,7 @@ NP | Noun phrase
 VP | Verb phrase
 VCP | Nominal predicate phrase (w/ copula)
 VNP | Nominal predicate phrase (w/o copula)
-VQP | Verb phrae (question)
+VQP | Verb phrase (indirect question)
 ADJP | Adjective phrase
 NADJP | Nominal adjective phrase
 ADVP | Adverbial phrase
@@ -80,10 +80,10 @@ IP  | Inflectional phrase
 IP-MAT  | Matrix phrase
 IP-ADV  | Adverbial phrase
 IP-REL  | Relative clause
-IP-REL_sbj  | Relative clause (subject gapping)
-IP-REL_obj  | Relative clause (object gapping)
-IP-REL_ob2  | Relative clause (indirect object gapping)
-IP-ADN  | Adnominal clause (non-gapping)
+IP-REL_sbj  | Relative clause (subject gap)
+IP-REL_obj  | Relative clause (object gap)
+IP-REL_ob2  | Relative clause (indirect object gap)
+IP-ADN  | Adnominal clause (non-gap)
 CP  | Complementizer phrase
 CP-THT  | Quotation clause
 CP-NNF | Nominalized clause
@@ -97,7 +97,7 @@ symbol | definition
 ------------ | -------------
 -SBJ | Subjective case
 -OBJ | Objective case
--OB2 | Dative case
+-OB2 | Indirect object case
 -TMP | Temporal case
 -LOC | Locative case
 -COORD | Coordinated structure
