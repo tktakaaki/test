@@ -42,7 +42,7 @@ SYM | Symbol
 INTJ | Interjection
 FIL | Filler
 
-## Compound tags (non-terminal symbols)
+## Compound word tags (non-terminal symbols)
 
 symbol | definition
 ------------ | -------------
