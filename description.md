@@ -5,7 +5,9 @@ Kaede treebank is a Japanese treebank annotated with
 phrase structure and grammatical functions.
 
 
-## Part-of-speech tags (terminal symbols)
+## Tags
+
+### Part-of-speech tags (terminal symbols)
 
 symbol | definition
 ------------ | -------------
@@ -42,7 +44,7 @@ SYM | Symbol
 INTJ | Interjection
 FIL | Filler
 
-## Compound word tags (non-terminal symbols)
+### Compound word tags (non-terminal symbols)
 
 symbol | definition
 ------------ | -------------
@@ -55,7 +57,7 @@ PCOMPADV | Compound particle (adverbiall)
 SYMCOMP | Compound symbol
 
 
-## Phrase tags (non-terminal symbols)
+### Phrase tags (non-terminal symbols)
 
 symbol | definition
 ------------ | -------------
@@ -86,7 +88,7 @@ CP-QUE | Interrogative clause
 
 
 
-## Function tags 
+### Function tags 
 
 symbol | definition
 ------------ | -------------
